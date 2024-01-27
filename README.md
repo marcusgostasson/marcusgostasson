@@ -3,7 +3,7 @@ I am an ambitious and goal-oriented student currently pursuing a degree in Softw
 
 * 📚 Software Developer at Kristianstad University
 * 🧠  I'm learning Java & python
-* * 🌍  I'm based in Olofström
+* 🌍  I'm based in Olofström
 
 
 ### Skills
