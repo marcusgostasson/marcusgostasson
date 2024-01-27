@@ -8,7 +8,7 @@ I am an ambitious and goal-oriented student currently pursuing a degree in Softw
 
 🧠  Learning Java & Python
 
-🌍  Based In Olofström
+🌍  Based In Sweden, Olofström
 
 
 ### Skills
