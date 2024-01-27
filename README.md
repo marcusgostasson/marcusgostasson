@@ -3,9 +3,8 @@ I am an ambitious and goal-oriented student currently pursuing a degree in Softw
 
 
 📚  Software Developer Student at Kristianstad University
-
+📪  Contact me at marcus.gostasson0103@stud.hkr.se
 🧠  Learning Java & python
-
 🌍  Based in Olofström
 
 
