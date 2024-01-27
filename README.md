@@ -2,7 +2,6 @@
 I am an ambitious and goal-oriented student currently pursuing a degree in Software Developer at Kristianstad University. I am passionate about learning new things and evolving both personally and professionally. My goal is to utilize my skills and experiences to make a positive impact in the IT industry. I am looking forward to connecting with and learning from like-minded individuals here on GitHub!
 
 * 📚 Software Developer at Kristianstad University
-* ✉️  You can contact me at [m.gostasson@hotmail.com](mailto:m.gostasson@hotmail.com)
 * 🧠  I'm learning Java & python
 * * 🌍  I'm based in Olofström
 
