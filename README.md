@@ -12,7 +12,7 @@ I am an ambitious and goal-oriented student currently pursuing a degree in Softw
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://github.com/marcusgostasson/marcusgostasson" target="_blank" rel="noreferrer"><img src="https://github.com/marcusgostasson/marcusgostasson/raw/main/assets/143846336/751e200f-6fe3-417d-9b05-95519722656a" width="36" height="36" alt="GitHub" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </p>
 
 ### Socials
