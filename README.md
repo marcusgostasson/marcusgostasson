@@ -1,6 +1,5 @@
 ## Marcus Göstasson
-I am an ambitious and goal-oriented student currently pursuing a degree in Software Developer at Kristianstad University. I am passionate about learning new things and evolving both personally and professionally. My goal is to utilize my skills and experiences to make a positive impact in the IT industry.
-
+Hi! I'm currently studying Software Development at Kristianstad University. I'm passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to use my skills to make a positive impact in the IT industry. I’m excited to connect with and learn from others who share my love for technology. Let’s connect!
 
 * 📚  Software Developer Student at Kristianstad University
 * 📪  Contact Me At marcus.gostasson0103@stud.hkr.se
@@ -24,4 +23,3 @@ I am an ambitious and goal-oriented student currently pursuing a degree in Softw
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
 </a>
-
