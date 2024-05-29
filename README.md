@@ -3,9 +3,10 @@ Självklart! Här är en snyggt strukturerad version med rätt ordval för Linke
 ---
 
 ## Marcus Göstasson
-I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the IT industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
 
-* 🌍 Based in: Sweden
+I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
+
+🌍 Based in: 🇸🇪
 
 ### Socials
 
