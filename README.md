@@ -16,6 +16,12 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Outlook" />
 </a>
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 ### 🛠️ Technologies & Tools
 
 <p align="left">
