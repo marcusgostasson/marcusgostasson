@@ -65,3 +65,50 @@ I'm currently studying **Software Development** at **Kristianstad University**. 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>
 </p>
+
+
+# Hi there! 👋
+
+I'm currently studying **Software Development** at **Kristianstad University**. I'm passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to use my skills to make a positive impact in the IT industry. I’m excited to connect with and learn from others who share my love for technology. Let's connect!
+
+---
+
+## 🚀 About Me
+- **Problem-Solver:** I love cracking complex problems and finding efficient solutions.
+- **Continuous Learner:** From the latest programming languages to innovative project management tools like **Jira**, I’m always eager to expand my knowledge.
+- **Collaborator:** Connecting with like-minded tech enthusiasts and professionals is something I truly enjoy. Let's share ideas and grow together!
+
+## 🌱 When I'm not coding
+- Enjoying some quality time in the garden 🌿
+- Exploring the latest tech trends 🕶️
+
+---
+
+## 📫 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://github.com/your-profile">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🛠️ Technologies & Tools
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226328.png" alt="Java" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="GitHub" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Jira" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="GitHub Actions" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="IntelliJ IDEA" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VS Code" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Git" height="30"/>
+</p>
+
