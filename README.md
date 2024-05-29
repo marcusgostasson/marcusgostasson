@@ -15,6 +15,9 @@ Hi! I'm currently studying Software Development at Kristianstad University. I'm 
   <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" alt="Github" /></a>
 </p>
  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="30"/>
+ <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" height="30"/>
+ <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_94293.png" alt="VS Code" height="30"/>
+ <img src="https://cdn-icons-png.flaticon.com/512/305/305043.png" alt="Jira" height="30"/>
 
 ### Socials
 <a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer">
@@ -131,7 +134,34 @@ I'm currently studying **Software Development** at **Kristianstad University**. 
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30"/>
   <img src="https://cdn-icons-png.flaticon.com/512/305/305043.png" alt="Jira" height="30"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="30"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" height="30"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_94293.png" alt="VS Code" height="30"/>
+  
+ 
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" height="30"/>
+</p>
+
+ <p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://www.github.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="36" height="36" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_94293.png" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/305/305043.png" width="36" height="36" alt="Jira" />
+  </a>
 </p>
