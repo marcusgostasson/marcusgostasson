@@ -22,6 +22,7 @@ Based in: 🇸🇪
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a>
-  <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1161/1161672.png" width="36" height="36" alt="Agile" /></a>
+  <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/agile.png" width="36" height="36" alt="Agile" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
+</p>
