@@ -1,9 +1,9 @@
 ## Marcus Göstasson
-Hi! I'm currently studying Software Development at Kristianstad University. I'm passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to use my skills to make a positive impact in the IT industry. I’m excited to connect with and learn from others who share my love for technology. Let’s connect!
+I'm currently studying **Software Development** at **Kristianstad University**. I'm passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to use my skills to make a positive impact in the IT industry. I’m excited to connect with and learn from others who share my love for technology. Let's connect!
 
-* 📚  Software Developer Student at Kristianstad University
+
 * 📪  Contact Me At marcus.gostasson0103@stud.hkr.se
-* 🌍  Based In Sweden , Blekinge län , Olofström
+* 🌍  Based In Sweden
 
 
 ### Socials
