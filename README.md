@@ -12,12 +12,6 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 <a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Outlook_2018.svg/1200px-Microsoft_Outlook_2018.svg.png" width="32" height="32" alt="Outlook" />
-</a>
-<a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Outlook" />
 </a>
 
