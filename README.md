@@ -15,10 +15,6 @@ Hi! I'm currently studying Software Development at Kristianstad University. I'm 
   </picture>
 </a>
 
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcusgöstasson)
-
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
