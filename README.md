@@ -112,3 +112,13 @@ I'm currently studying **Software Development** at **Kristianstad University**. 
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Git" height="30"/>
 </p>
 
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226328.png" alt="Java" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Jira" height="30"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="30"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" height="30"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_94293.png" alt="VS Code" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" height="30"/>
+</p>
