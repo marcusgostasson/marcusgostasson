@@ -1,18 +1,18 @@
-## Marcus Göstasson
-I'm currently studying **Software Development** at **Kristianstad University**. I'm passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to use my skills to make a positive impact in the IT industry. I’m excited to connect with and learn from others who share my love for technology. Let's connect!
+Självklart! Här är en snyggt strukturerad version med rätt ordval för LinkedIn:
 
-* 🌍 Based In: Sweden
+---
+
+## Marcus Göstasson
+I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the IT industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
+
+* 🌍 Based in: Sweden
 
 ### Socials
 <a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a>
 <a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" alt="Outlook" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microsoft_Outlook_2018.svg/1200px-Microsoft_Outlook_2018.svg.png" width="32" height="32" alt="Outlook" />
 </a>
 
 ### 🛠️ Technologies & Tools
