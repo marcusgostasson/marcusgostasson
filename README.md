@@ -23,3 +23,10 @@ Hi! I'm currently studying Software Development at Kristianstad University. I'm 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
 </a>
+
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcusgöstasson)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/marcusgostasson)
+
+
