@@ -9,18 +9,10 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
 
 ### Socials
 
-<a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
-<a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Outlook" />
-</a>
-
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Outlook" /></a>
+</p>
 
 ### 🛠️ Technologies & Tools
 
