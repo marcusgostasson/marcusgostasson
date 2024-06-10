@@ -13,39 +13,39 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
 
 <table>
   <tr>
-    <th style="background-color: #4CAF50; color: white; text-align: center;">Programming Languages</th>
-    <th style="background-color: #2196F3; color: white; text-align: center;">Version Control & CI/CD</th>
-    <th style="background-color: #f44336; color: white; text-align: center;">Development Tools</th>
-    <th style="background-color: #ff9800; color: white; text-align: center;">Project Management</th>
-    <th style="background-color: #9c27b0; color: white; text-align: center;">Databases</th>
-    <th style="background-color: #3f51b5; color: white; text-align: center;">Other Skills</th>
+    <th style="background-color: white; color: black; text-align: center;">Programming Languages</th>
+    <th style="background-color: white; color: black; text-align: center;">Version Control & CI/CD</th>
+    <th style="background-color: white; color: black; text-align: center;">Development Tools</th>
+    <th style="background-color: white; color: black; text-align: center;">Project Management</th>
+    <th style="background-color: white; color: black; text-align: center;">Databases</th>
+    <th style="background-color: white; color: black; text-align: center;">Other Skills</th>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" /></a>
-      <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub" /></a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" /></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git" /></a>
+      <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" /></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40" height="40" alt="GitHub Actions" /></a>
     </td>
     <td align="center">
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40" height="40" alt="IntelliJ IDEA" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /></a>
     </td>
     <td align="center">
-      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a>
-      <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/agile.png" width="36" height="36" alt="Agile" /></a>
-      <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/scrum-2-1175250.png" width="36" height="36" alt="Scrum" /></a>
+      <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40" alt="Jira" /></a>
+      <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/agile.png" width="40" height="40" alt="Agile" /></a>
+      <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/scrum-2-1175250.png" width="40" height="40" alt="Scrum" /></a>
     </td>
     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" /></a>
     </td>
     <td align="center">
-      <a href="https://sv.wikipedia.org/wiki/Objektorienterad_programmering" target="_blank" rel="noreferrer"><img src="https://github.com/marcusgostasson/marcusgostasson/blob/main/OOP_ikon.jpeg" width="36" height="36" alt="OOP" /></a>
-      <a href="https://it-talents.de/it-wissen/was-ist-sustainable-programming/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/environment.png" width="36" height="36" alt="Sustainable Programming" /></a>
+      <a href="https://sv.wikipedia.org/wiki/Objektorienterad_programmering" target="_blank" rel="noreferrer"><img src="https://github.com/marcusgostasson/marcusgostasson/blob/main/OOP_ikon.jpeg" width="40" height="40" alt="OOP" /></a>
+      <a href="https://it-talents.de/it-wissen/was-ist-sustainable-programming/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/environment.png" width="40" height="40" alt="Sustainable Programming" /></a>
     </td>
   </tr>
 </table>
