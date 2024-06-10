@@ -2,8 +2,6 @@
 
 I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
 
-Based in: 🇸🇪
-
 ### Connect with me
 
 <p align="left">
@@ -46,7 +44,7 @@ Based in: 🇸🇪
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
     </td>
     <td align="center">
-      <a href="https://www.quickstart.com/software-engineering/10-applications-of-object-oriented-programming/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marcusgostasson/marcusgostasson/main/OOP_ikon.webp" width="36" height="36" alt="OOP" /></a>
+      <a href="https://sv.wikipedia.org/wiki/Objektorienterad_programmering" target="_blank" rel="noreferrer"><img src="https://github.com/marcusgostasson/marcusgostasson/blob/main/OOP_ikon.jpeg" width="36" height="36" alt="OOP" /></a>
       <a href="https://it-talents.de/it-wissen/was-ist-sustainable-programming/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/environment.png" width="36" height="36" alt="Sustainable Programming" /></a>
     </td>
   </tr>
