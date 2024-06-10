@@ -13,31 +13,6 @@ Based in: 🇸🇪
 
 ### Technologies & Tools
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <h4>Programming Languages</h4>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <h4>Version Control & CI/CD</h4>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub" /></a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" /></a>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <h4>Development Tools</h4>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="36" height="36" alt="IntelliJ IDEA" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <h4>Project Management</h4>
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a>
-    <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-agile-digital-marketing-flatart-icons-outline-flatarticons.png" width="36" height="36" alt="Agile" /></a>
-  </div>
-  <div style="flex: 1; min-width: 150px; text-align: center;">
-    <h4>Databases</h4>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
-  </div>
-</div>
+| **Programming Languages** | **Version Control & CI/CD** | **Development Tools** | **Project Management** | **Databases** |
+|---------------------------|-----------------------------|-----------------------|------------------------|---------------|
+| <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.github.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub" /></a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" /></a> | <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="36" height="36" alt="IntelliJ IDEA" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a> | <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a> <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-agile-digital-marketing-flatart-icons-outline-flatarticons.png" width="36" height="36" alt="Agile" /></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a> |
