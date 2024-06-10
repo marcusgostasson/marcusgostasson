@@ -37,7 +37,7 @@ Based in: 🇸🇪
     </td>
     <td align="center">
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a>
-      <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scrum.png" width="36" height="36" alt="Agile" /></a>
+      <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/agile.png" width="36" height="36" alt="Agile" /></a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
