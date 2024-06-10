@@ -46,7 +46,7 @@ Based in: 🇸🇪
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
     </td>
     <td align="center">
-      <a href="https://www.quickstart.com/software-engineering/10-applications-of-object-oriented-programming/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marcusgostasson/marcusgostasson/main/assets/OOP_ikon.webp" width="36" height="36" alt="OOP" /></a>
+      <a href="https://www.quickstart.com/software-engineering/10-applications-of-object-oriented-programming/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marcusgostasson/marcusgostasson/main/OOP_ikon.webp" width="36" height="36" alt="OOP" /></a>
       <a href="https://it-talents.de/it-wissen/was-ist-sustainable-programming/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/environment.png" width="36" height="36" alt="Sustainable Programming" /></a>
     </td>
   </tr>
