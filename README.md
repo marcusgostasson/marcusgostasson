@@ -2,6 +2,8 @@
 
 I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
 
+Based in: 🇸🇪
+
 ### Connect with me
 
 <p align="left">
@@ -18,6 +20,7 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
     <th style="background-color: #f44336; color: white; text-align: center;">Development Tools</th>
     <th style="background-color: #ff9800; color: white; text-align: center;">Project Management</th>
     <th style="background-color: #9c27b0; color: white; text-align: center;">Databases</th>
+    <th style="background-color: #3f51b5; color: white; text-align: center;">Other Skills</th>
   </tr>
   <tr>
     <td align="center">
@@ -36,10 +39,15 @@ I am currently pursuing a degree in **Software Development** at **Kristianstad U
     <td align="center">
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="36" height="36" alt="Jira" /></a>
       <a href="https://www.agilealliance.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-agile-digital-marketing-flatart-icons-outline-flatarticons.png" width="36" height="36" alt="Agile" /></a>
+      <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/scrum-2-1175250.png" width="36" height="36" alt="Scrum" /></a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" /></a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Java_in_Tux.svg/1200px-Java_in_Tux.svg.png" width="36" height="36" alt="OOP" /></a>
+      <a href="https://sustainableprogramming.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/environment.png" width="36" height="36" alt="Sustainable Programming" /></a>
     </td>
   </tr>
 </table>
