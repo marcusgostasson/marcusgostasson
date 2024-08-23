@@ -1,24 +1,24 @@
 ## Marcus Göstasson
 
-I am currently pursuing a degree in **Software Development** at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning, both personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
+I am pursuing a **Software Development** degree at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
 
 ### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marcusgöstasson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Outlook" /></a>
+  <a href="mailto:marcus.gostasson0103@stud.hkr.se" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32" height="32" alt="Email" /></a>
 </p>
 
 ### Technologies & Tools
 
 <table>
   <tr>
-    <th style="background-color: white; color: black; text-align: center;">Programming Languages</th>
-    <th style="background-color: white; color: black; text-align: center;">Version Control & CI/CD</th>
-    <th style="background-color: white; color: black; text-align: center;">Development Tools</th>
-    <th style="background-color: white; color: black; text-align: center;">Project Management</th>
-    <th style="background-color: white; color: black; text-align: center;">Databases</th>
-    <th style="background-color: white; color: black; text-align: center;">Other Skills</th>
+    <th style="text-align: center;">Programming Languages</th>
+    <th style="text-align: center;">Version Control & CI/CD</th>
+    <th style="text-align: center;">Development Tools</th>
+    <th style="text-align: center;">Project Management</th>
+    <th style="text-align: center;">Databases</th>
+    <th style="text-align: center;">Other Skills</th>
   </tr>
   <tr>
     <td align="center">
