@@ -1,6 +1,16 @@
 ## Marcus Göstasson
 
-I am pursuing a **Software Development** degree at **Kristianstad University**. I am passionate about tackling new challenges and constantly learning personally and professionally. My goal is to utilize my skills to make a positive impact in the tech industry. I am eager to connect with and learn from others who share my enthusiasm for technology. Let's connect!
+Hi! ✋🏼
+
+I’m in my second year studying Software Development at Kristianstad University. I enjoy taking on challenges and learning new things, both personally and professionally. My studies have covered areas like Database Technology, Agile Development Methods, Object-Oriented Programming, and Discrete Mathematics. I am currently diving deeper into Data Communication and Operating Systems.
+
+As a proud father of a boy and a girl, I’ve learned the art of balancing multiple responsibilities while maintaining focus and dedication to my goals. Being a parent has taught me patience, adaptability, and the importance of working together—skills that I bring into every project.
+
+Having a background in sports, I value teamwork and understand how collaboration can drive success, both on the field and in the tech world. My experiences in sports have taught me the importance of communication, strategy, and supporting each other to reach a common goal.
+
+I’m passionate about teamwork and believe working together leads to the best results. My goal is to keep developing my skills and make a positive impact in the tech industry.
+
+I’d love to connect with others who share my passion for technology. I’m looking for opportunities to apply my skills in software development and contribute to innovative projects in a collaborative environment.
 
 ### Connect with me
 
