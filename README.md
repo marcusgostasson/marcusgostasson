@@ -2,7 +2,9 @@
 
 Hi! ✋🏼
 
-I’m in my second year studying Software Development at Kristianstad University. I enjoy taking on challenges and learning new things, both personally and professionally. My studies have covered areas like Database Technology, Agile Development Methods, Object-Oriented Programming, and Discrete Mathematics. I am currently diving deeper into Data Communication and Operating Systems.
+I am currently in my third year of studying Software Development at Kristianstad University. Throughout my studies, I have gained a solid foundation in areas such as Database Technology, Agile Development Methods, Object-Oriented Programming, Algorithms and Data Structures, Computer Security, and Discrete Mathematics. I have also completed courses in Backend and Frontend Development, Full Stack Development, and Mathematical Statistics, which have given me both theoretical knowledge and practical skills across different domains of computer science.
+
+Right now, I am focusing on Machine Learning and Android Development.
 
 As a proud father of a boy and a girl, I’ve learned the art of balancing multiple responsibilities while maintaining focus and dedication to my goals. Being a parent has taught me patience, adaptability, and the importance of working together—skills that I bring into every project.
 
