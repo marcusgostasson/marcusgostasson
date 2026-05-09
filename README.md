@@ -8,8 +8,6 @@
   Final-year Software Development student at Kristianstad University graduating in June 2026.
 </p>
 
----
-
 ## About Me
 
 I am a final-year Software Development student at Kristianstad University.
@@ -18,15 +16,11 @@ Before transitioning into software development, I worked for several years in in
 
 I enjoy solving complex problems, learning new technologies, and working in collaborative environments where software can create practical real-world value.
 
----
-
 ## Bachelor Thesis
 
 Currently writing my bachelor thesis in collaboration with **ABB** and **Tarkett**.
 
 The project focuses on predictive maintenance and Remaining Useful Life (RUL) prediction using industrial sensor data.
-
----
 
 ## Technical Skills
 
@@ -97,8 +91,6 @@ The project focuses on predictive maintenance and Remaining Useful Life (RUL) pr
 </tr>
 </table>
 
----
-
 ## Education
 
 **Bachelor Programme in Software Development**  
@@ -118,9 +110,7 @@ Expected graduation: June 2026
 - Database Technology
 - Mathematical Statistics
 - Software Engineering
-
----
-
+  
 ## Connect With Me
 
 <p align="left">
