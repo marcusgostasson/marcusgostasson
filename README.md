@@ -4,7 +4,7 @@
   Final-year Software Development student at Kristianstad University graduating in June 2026.
 </p>
 
-About Me
+## About Me
 
 I am a final-year Software Development student at Kristianstad University. Before transitioning into software development, I worked for several years in industry as a mechanic. That experience gave me a practical understanding of technical systems, troubleshooting, production environments, and the importance of building reliable real-world solutions.
 
@@ -63,8 +63,7 @@ The project focuses on predictive maintenance and Remaining Useful Life (RUL) pr
   </tr>
 </table>
 
-
-Education
+## Education
 
 Bachelor Programme in Software Development
 Kristianstad University
