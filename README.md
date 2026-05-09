@@ -118,7 +118,7 @@ Expected graduation: June 2026
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
   </a>
 
-  <a href="mailto:marcus.gostasson0103@stud.hkr.se">
+  <a href="mailto:m.gostasson@hotmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="32"/>
   </a>
 </p>
