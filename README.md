@@ -16,8 +16,6 @@ Currently writing my bachelor thesis in collaboration with ABB and Tarkett.
 
 The project focuses on predictive maintenance and Remaining Useful Life (RUL) prediction using industrial sensor data.
 
-Technical Skills
-
 ## Technical Skills
 
 <table align="center">
